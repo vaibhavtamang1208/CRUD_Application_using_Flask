@@ -1,0 +1,7 @@
+th, tr, td, tbody, thead{
+  padding-left:  14px;
+}
+
+input, button, label {
+  margin-top: 10px;
+}
